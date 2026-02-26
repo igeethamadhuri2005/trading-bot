@@ -1,16 +1,1 @@
-2026-02-26 15:30:45,123 - trading_bot - INFO - Initialized BinanceTestnetClient
-2026-02-26 15:30:45,124 - trading_bot - DEBUG - POST /fapi/v1/order with params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01, 'timestamp': 1740514245123, 'signature': 'abcd1234efgh5678ijkl9012mnop3456qrst7890uvwx1234yzab5678cdef90'}
-2026-02-26 15:30:46,456 - trading_bot - DEBUG - Response: {'orderId': 1234567890, 'symbol': 'BTCUSDT', 'status': 'FILLED', 'side': 'BUY', 'type': 'MARKET', 'timeInForce': 'IOC', 'origQty': '0.01', 'executedQty': '0.01', 'cumQuote': '425.50', 'avgPrice': '42550.00', 'updateTime': 1740514246000}
-2026-02-26 15:30:46,457 - trading_bot - INFO - 
-============================================================
-ORDER PLACED SUCCESSFULLY
-============================================================
-Symbol: BTCUSDT
-Side: BUY
-Type: MARKET
-Quantity: 0.01
-Order ID: 1234567890
-Status: FILLED
-Executed Qty: 0.01
-Avg Price: 42550.00
-============================================================
+2026-02-26 05:30:42 UTC | User: igeethamadhuri2005 | Order ID: 1234567890 | Market: BTCUSDT | Action: BUY | Status: SUCCESS
