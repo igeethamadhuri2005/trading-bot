@@ -1,0 +1,9 @@
+# Navigate to your project
+cd trading-bot
+
+# Create .env file (use your preferred editor)
+# On Mac/Linux:
+nano .env
+
+# On Windows (using Notepad):
+notepad .env
